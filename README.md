@@ -55,12 +55,12 @@ Web Developer | Wordpres & Woocommerce | Tech Enthusiastic
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abuansarpatowary&show_icons=true&locale=en&layout=compact" alt="Abu ANsar Patowary" /></p>
 
-
+[website]: https://www.abuansarpatowary.xyz
 [facebook]: https://www.facebook.com/abuansarpatowary/
-[twitter]: https://twitter.com/mahbubdev
+[twitter]: https://twitter.com/abuansarpatowary
 [youtube]: https://www.youtube.com/channel/UCbgOjsaO41cXmLTPp4hJqSg
 [pinterest]: https://pinterest.com/abuansarpatowary/
-[linkedin]: [https://www.linkedin.com/in/abu-ansar-20706015a/]
+[linkedin]: https://www.linkedin.com/in/abu-ansar-20706015a/
 
 
 <!---
