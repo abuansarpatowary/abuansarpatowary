@@ -19,13 +19,11 @@ Web Developer | Wordpres & Woocommerce | Tech Enthusiastic
 
 ### Connect with me:
 
-[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Abu Ansar Patowary | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="Abu Ansar Patowary | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Abu Ansar Patowary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Abu Ansar Patowary | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="abuansarpatowary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Abu Ansar Patowary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]https://www.abuansarpatowary.xyz[website]
+[<img align="left" alt="Abu Ansar Patowary | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />]https://facebook.com/abuansarpatowary[facebook]
+[<img align="left" alt="Abu Ansar Patowary | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]https://www.youtube.com/channel/UCbgOjsaO41cXmLTPp4hJqSg[youtube]
+[<img align="left" alt="Abu Ansar Patowary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]https://twitter.com/abuansarpatwary[twitter]
+[<img align="left" alt="abuansarpatowary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]https://www.linkedin.com/in/abu-ansar-20706015a/[linkedin]
 
 <br />
 
