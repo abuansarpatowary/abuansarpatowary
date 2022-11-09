@@ -18,8 +18,6 @@ Web Developer | Wordpres & Woocommerce | Tech Enthusiastic
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
 ### Connect with me:
-
-[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Abu Ansar Patowary | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 [<img align="left" alt="Abu Ansar Patowary | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Abu Ansar Patowary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
