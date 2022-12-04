@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Abu ANsar Patowary</h1>
+<h1 align="center">Hi <img src="https://github.com/abuansarpatowary/abuansarpatowary/blob/main/Wave.gif" height="55px" width="55px">, I'm Abu ANsar Patowary</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Web Developer | Wordpres & Woocommerce | Tech Enthusiastic
@@ -42,10 +42,10 @@ Web Developer | Wordpres & Woocommerce | Tech Enthusiastic
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=NoobMahbub.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=abuansarpatowary.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=abuansarpatowary&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/abuansarpatowary/github-readme-activity-graph)
+[![AbuAnsar's github activity graph](https://activity-graph.herokuapp.com/graph?username=abuansarpatowary&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/abuansarpatowary/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
